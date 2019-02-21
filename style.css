@@ -1,0 +1,30 @@
+a.collection-item {
+    background: pink !important;
+}
+.con-uno {
+    background: #ffffff;
+}
+.con-dos {
+    background: orange;
+}
+.con-dos img{
+    width: 50%;
+}
+.base-img{
+    width: 50px !important;
+    margin-left: 175px; 
+} 
+.contenedor{
+    border: solid pink 15px;
+}
+.texto-centrado h3{
+    margin-top: 5px;
+    padding-left: 128px;
+}
+.con-uno p{
+    padding-left: 130px;
+    margin-right: 124px;
+}
+.texto-centrado span{
+    padding-left: 129px;
+}
